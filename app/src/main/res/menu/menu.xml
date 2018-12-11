@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Add"
+        android:id="@+id/menu_add" />
+    <item android:title="Update"
+        android:id="@+id/menu_update" />
+    <item android:title="Filter"
+        android:id="@+id/menu_filter" />
+    <item android:title="Sort"
+        android:id="@+id/menu_sort" />
+    <item android:title="cpTest"
+        android:id="@+id/menu_cpTest" />
+</menu>
